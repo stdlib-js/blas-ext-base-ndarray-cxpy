@@ -226,7 +226,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-ext-base-ndarray-cxpy/main/LICENSE
 
-[@stdlib/blas/ext/base/ndarray/caxpby]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/blas/ext/base/ndarray/caxpby
+[@stdlib/blas/ext/base/ndarray/caxpby]: https://github.com/stdlib-js/blas-ext-base-ndarray-caxpby
 
 </section>
 
